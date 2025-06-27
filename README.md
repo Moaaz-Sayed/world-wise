@@ -69,6 +69,16 @@ Moaaz Sayed
 https://github.com/Moaaz-Sayed
 ```
 ```
+## 📌 Disclaimer
+
+This project was mainly focused on practicing and improving my React skills.
+
+Design and responsiveness were not a priority at this stage, so the layout may not be fully optimized for mobile devices.
+
+The goal was to build a functional and interactive map-based app using React, React Router, and Leaflet.
+
+```
+```
 ## 📄 License
 This is an educational project and can be used for personal or learning purposes. 
 ```

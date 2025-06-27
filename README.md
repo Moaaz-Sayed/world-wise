@@ -39,7 +39,7 @@ Visited locations are saved and displayed in a well-organized interface.
 
 ## 🧪 Run Locally
 
-```bash
+```
 # 1. Clone the repository
 git clone https://github.com/Moaaz-Sayed/world-wise.git
 # 2. Navigate into the project directory
